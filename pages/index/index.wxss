@@ -19,3 +19,40 @@
 .usermotto {
   margin-top: 200px;
 }
+.test{
+  height: 2000rpx;
+  width: 100%;
+  background-color: black;
+}
+.topbar{
+  position: relative;
+  margin-top: 130rpx;
+  height: 120rpx;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.icon{
+  margin:20rpx; 
+  height: 50rpx;
+  width: 50rpx;
+  background-color: black;
+  
+}
+.topbar-text{
+  color: white;
+}
+.calendar{
+  background: linear-gradient(#FC7375,#FEB9BA);
+  height: 300rpx;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.calendar-img{
+  height: 128rpx;
+  width: 128rpx;
+  border-radius: 50%;
+}

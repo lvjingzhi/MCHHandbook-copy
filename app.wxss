@@ -5,6 +5,28 @@
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  padding: 200rpx 0;
   box-sizing: border-box;
+  background-color: #DBDBDB;
 } 
+.navibar{
+  height: 70rpx;
+  display: flex;
+  padding-left: 80rpx;
+  color: white;
+  width: 100%;
+  position: fixed;
+  top:60rpx;
+}
+.navibar-top{
+  display: flex;
+  height: 60rpx;
+  width: 100%;
+  position:fixed;
+  top:0;
+}
+.maincolor{
+  color:#d4484e;
+}
+.maincolor-back{
+  background-color:#FC7375;
+}

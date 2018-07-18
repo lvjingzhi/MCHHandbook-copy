@@ -4,6 +4,8 @@ const app = getApp()
 
 Page({
   data: {
+    state: '(状态栏)',
+    calendarURL:'../../img/avater-azizi.jpg',
     motto: 'Hello World',
     userInfo: {},
     hasUserInfo: false,
